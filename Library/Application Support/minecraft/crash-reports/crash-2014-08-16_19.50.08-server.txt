@@ -1,0 +1,37 @@
+---- Minecraft Crash Report ----
+// You're mean.
+
+Time: 8/16/14 7:50 PM
+Description: Exception in server tick loop
+
+java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.fastRemove(ArrayList.java:441)
+	at java.util.ArrayList.remove(ArrayList.java:424)
+	at oo.b(SourceFile:62)
+	at on.c(SourceFile:328)
+	at qd.e(SourceFile:302)
+	at pd.a(SourceFile:530)
+	at oy.c(SourceFile:130)
+	at net.minecraft.server.MinecraftServer.w(SourceFile:596)
+	at net.minecraft.server.MinecraftServer.v(SourceFile:506)
+	at cln.v(SourceFile:132)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:422)
+	at java.lang.Thread.run(Thread.java:695)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 14w21b
+	Operating System: Mac OS X (x86_64) version 10.9.4
+	Java Version: 1.6.0_65, Apple Inc.
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Apple Inc.
+	Memory: 108153224 bytes (103 MB) / 334581760 bytes (319 MB) up to 1060372480 bytes (1011 MB)
+	JVM Flags: 5 total; -Xmx1G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn128M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	Profiler Position: N/A (disabled)
+	Player Count: 1 / 8; [ot['jesse2956'/26, l='command', x=412.58, y=59.00, z=-1001.11]]
+	Type: Integrated Server (map_client.txt)
+	Is Modded: Probably not. Jar signature remains and both client + server brands are untouched.

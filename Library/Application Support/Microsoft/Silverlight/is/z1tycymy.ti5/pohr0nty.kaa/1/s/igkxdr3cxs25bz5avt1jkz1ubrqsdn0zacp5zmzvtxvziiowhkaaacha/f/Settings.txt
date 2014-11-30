@@ -1,0 +1,9 @@
+<SettingsRoot>
+  <playerId>1412870601</playerId>
+  <Volume>0</Volume>
+  <CCActive>False</CCActive>
+  <SubtitlePresets>{  "preset2": {    "uri": "https://images-na.ssl-images-amazon.com/images/G/01/digital/video/708_subtitle_swatches/swatch-bbcy.png",    "bgOpacity": 1.0,    "txtColor": "#E5DD00",    "customized": false,    "winOpacity": 0.0,    "txtSize": 1.0,    "txtEdge": "no",    "winColor": "#000000",    "transition": "popOn",    "bgColor": "#000000",    "txtFont": "default",    "txtOpacity": 1.0  },  "preset1": {    "uri": "https://images-na.ssl-images-amazon.com/images/G/01/digital/video/708_subtitle_swatches/swatch-bncw.png",    "bgOpacity": 0.0,    "txtColor": "#FFFFFF",    "customized": false,    "winOpacity": 0.0,    "txtSize": 1.0,    "txtEdge": "shadow",    "winColor": "#000000",    "transition": "popOn",    "bgColor": "#000000",    "txtFont": "default",    "txtOpacity": 1.0  },  "default": {    "uri": "https://images-na.ssl-images-amazon.com/images/G/01/digital/video/708_subtitle_swatches/swatch-bbcw.png",    "bgOpacity": 0.5,    "txtColor": "#FFFFFF",    "customized": false,    "winOpacity": 0.0,    "txtSize": 1.0,    "txtEdge": "no",    "winColor": "#000000",    "transition": "popOn",    "bgColor": "#000000",    "txtFont": "default",    "txtOpacity": 1.0  },  "preset3": {    "uri": "https://images-na.ssl-images-amazon.com/images/G/01/digital/video/708_subtitle_swatches/swatch-bncb.png",    "bgOpacity": 0.0,    "txtColor": "#000000",    "customized": false,    "winOpacity": 0.0,    "txtSize": 1.0,    "txtEdge": "no",    "winColor": "#000000",    "transition": "popOn",    "bgColor": "#FFFFFF",    "txtFont": "default",    "txtOpacity": 1.0  }}</SubtitlePresets>
+  <playbackBitrate>6000000</playbackBitrate>
+  <Paused>False</Paused>
+  <StateOnExit></StateOnExit>
+</SettingsRoot>

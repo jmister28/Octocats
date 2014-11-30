@@ -1,0 +1,355 @@
+08/13/14 09:52:15 [WARN] CORE_PATCH_CLNT PatchClientConfig.cpp 0156 [0] Unable to read optional parameter LocalNewsURL from the config file.
+08/13/14 09:52:15 [WARN] CORE_PATCH_CLNT PatchClientConfig.cpp 0156 [0] Unable to read optional parameter PatchInfoDirectory from the config file.
+08/13/14 09:52:15 [STAT] ResourceManager ResourceManager.cpp  0287 [0] ResourceManager releasing data.
+08/13/14 09:52:15 [STAT] ResourceManager ResourceManager.cpp  0279 [0] Loading CSR data.
+08/13/14 09:52:15 [STAT] MessageManager  messagemanager.cpp   0212 [0]    Protocol Type: SYSTEM : All Common System Messages - Not Game Messages
+08/13/14 09:52:15 [STAT] MessageManager  messagemanager.cpp   0238 [0]    Message Module: SYSTEM : Loaded OK
+08/13/14 09:52:15 [STAT] MessageManager  messagemanager.cpp   0212 [0]    Protocol Type: EXTENDEDBASE : Lower level messages for passing DML and RAW string
+08/13/14 09:52:15 [STAT] MessageManager  messagemanager.cpp   0238 [0]    Message Module: EXTENDEDBASE : Loaded OK
+08/13/14 09:52:15 [STAT] MessageManager  messagemanager.cpp   0212 [0]    Protocol Type: LOGIN : Login Server Messages
+08/13/14 09:52:15 [STAT] MessageManager  messagemanager.cpp   0238 [0]    Message Module: LOGIN : Loaded OK
+08/13/14 09:52:15 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0508 [0] State: ST_Ready
+08/13/14 09:52:15 [STAT] CURRENT_STATE   PatchInterface.cpp   1051 [0] CPatchInterface::OnPCStateChange() m_currentState='Unauthen', a_newState=1.
+08/13/14 09:52:15 [STAT] PATCH_CLIENT    PatchInterface.cpp   0386 [0] URL Message: ?message=patching,18,AcctStatus,NEW,IdType,I,Id,0,MAC,02E6500C25F4,OST,OSX,Inst,2014-08-13,DiskSpace,93893,PT,2048,PA,1251,VT,2047,VA,2047,CPUFMS,6-69-1,KBDown,0,SecDown,0,PatchClientID,{503CC6FA-A7DC-4044-948B-AF947F612344},CurrentState,Unauthen,FileProgress,0,TotalProgress,0
+08/13/14 09:52:15 [STAT] PATCH_CLIENT    PatchInterface.cpp   1017 [0] CPatchInterface::OnReportPatchingStateToUI() GotoPage(https://www.pirate101.com/P101PatchClient/New/patching?message=patching,18,AcctStatus,NEW,IdType,I,Id,0,MAC,02E6500C25F4,OST,OSX,Inst,2014-08-13,DiskSpace,93893,PT,2048,PA,1251,VT,2047,VA,2047,CPUFMS,6-69-1,KBDown,0,SecDown,0,PatchClientID,{503CC6FA-A7DC-4044-948B-AF947F612344},CurrentState,Unauthen,FileProgress,0,TotalProgress,0)
+08/13/14 09:52:15 [STAT] PATCH_CLIENT    PatchInterface.cpp   0729 [0] GotoPage - https://www.pirate101.com/autologin/P101PatchClient/New/patching?message=patching,18,AcctStatus,NEW,IdType,I,Id,0,MAC,02E6500C25F4,OST,OSX,Inst,2014-08-13,DiskSpace,93893,PT,2048,PA,1251,VT,2047,VA,2047,CPUFMS,6-69-1,KBDown,0,SecDown,0,PatchClientID,{503CC6FA-A7DC-4044-948B-AF947F612344},CurrentState,Unauthen,FileProgress,0,TotalProgress,0&jsessionid=fUtMy4oCPsPtud3YGM6SJw%3D%3D%7CGl0OUDMM3bIZ8fdh%2BMcUpAlyyKElvmH2Kn5Z3YWpoFD8X1tMiV9t6rGOUn9lWGpHiQ5lTlMDhoDI2U60seIlJg%3D%3D
+08/13/14 09:52:15 [STAT] PATCH_CLIENT    PatchInterface.cpp   0255 [0] CPatchClientUIDlg::GotoPage() Navigate(https://www.pirate101.com/autologin/P101PatchClient/New/patching?message=patching,18,AcctStatus,NEW,IdType,I,Id,0,MAC,02E6500C25F4,OST,OSX,Inst,2014-08-13,DiskSpace,93893,PT,2048,PA,1251,VT,2047,VA,2047,CPUFMS,6-69-1,KBDown,0,SecDown,0,PatchClientID,{503CC6FA-A7DC-4044-948B-AF947F612344},CurrentState,Unauthen,FileProgress,0,TotalProgress,0&jsessionid=fUtMy4oCPsPtud3YGM6SJw%3D%3D%7CGl0OUDMM3bIZ8fdh%2BMcUpAlyyKElvmH2Kn5Z3YWpoFD8X1tMiV9t6rGOUn9lWGpHiQ5lTlMDhoDI2U60seIlJg%3D%3D)
+08/13/14 09:52:15 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0344 [0] PatchClient::Start
+08/13/14 09:52:15 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0527 [0] Event: ET_Start
+08/13/14 09:52:15 [STAT] PATCH_CLIENT    PatchInterface.cpp   0386 [0] URL Message: ?message=patching,18,AcctStatus,NEW,IdType,N,Id,jesse2956,MAC,02E6500C25F4,OST,OSX,Inst,2014-08-13,DiskSpace,93893,PT,2048,PA,1251,VT,2047,VA,2047,CPUFMS,6-69-1,KBDown,0,SecDown,0,PatchClientID,{503CC6FA-A7DC-4044-948B-AF947F612344},CurrentState,Restarted,FileProgress,0,TotalProgress,0
+08/13/14 09:52:15 [STAT] PATCH_CLIENT    PatchInterface.cpp   0562 [0] Visiting URL: https://www.pirate101.com/P101PatchClient/New/patching?message=patching,18,AcctStatus,NEW,IdType,N,Id,jesse2956,MAC,02E6500C25F4,OST,OSX,Inst,2014-08-13,DiskSpace,93893,PT,2048,PA,1251,VT,2047,VA,2047,CPUFMS,6-69-1,KBDown,0,SecDown,0,PatchClientID,{503CC6FA-A7DC-4044-948B-AF947F612344},CurrentState,Restarted,FileProgress,0,TotalProgress,0
+08/13/14 09:52:15 [STAT] PATCH_CLIENT    PatchInterface.cpp   0566 [0] CPatchInterface::InitDialog() GotoPage(https://www.pirate101.com/P101PatchClient/New/patching?message=patching,18,AcctStatus,NEW,IdType,N,Id,jesse2956,MAC,02E6500C25F4,OST,OSX,Inst,2014-08-13,DiskSpace,93893,PT,2048,PA,1251,VT,2047,VA,2047,CPUFMS,6-69-1,KBDown,0,SecDown,0,PatchClientID,{503CC6FA-A7DC-4044-948B-AF947F612344},CurrentState,Restarted,FileProgress,0,TotalProgress,0)
+08/13/14 09:52:15 [STAT] PATCH_CLIENT    PatchInterface.cpp   0729 [0] GotoPage - https://www.pirate101.com/autologin/P101PatchClient/New/patching?message=patching,18,AcctStatus,NEW,IdType,N,Id,jesse2956,MAC,02E6500C25F4,OST,OSX,Inst,2014-08-13,DiskSpace,93893,PT,2048,PA,1251,VT,2047,VA,2047,CPUFMS,6-69-1,KBDown,0,SecDown,0,PatchClientID,{503CC6FA-A7DC-4044-948B-AF947F612344},CurrentState,Restarted,FileProgress,0,TotalProgress,0&jsessionid=fUtMy4oCPsPtud3YGM6SJw%3D%3D%7CGl0OUDMM3bIZ8fdh%2BMcUpAlyyKElvmH2Kn5Z3YWpoFD8X1tMiV9t6rGOUn9lWGpHiQ5lTlMDhoDI2U60seIlJg%3D%3D
+08/13/14 09:52:15 [STAT] PATCH_CLIENT    PatchInterface.cpp   0255 [0] Setting next URL https://www.pirate101.com/autologin/P101PatchClient/New/patching?message=patching,18,AcctStatus,NEW,IdType,N,Id,jesse2956,MAC,02E6500C25F4,OST,OSX,Inst,2014-08-13,DiskSpace,93893,PT,2048,PA,1251,VT,2047,VA,2047,CPUFMS,6-69-1,KBDown,0,SecDown,0,PatchClientID,{503CC6FA-A7DC-4044-948B-AF947F612344},CurrentState,Restarted,FileProgress,0,TotalProgress,0&jsessionid=fUtMy4oCPsPtud3YGM6SJw%3D%3D%7CGl0OUDMM3bIZ8fdh%2BMcUpAlyyKElvmH2Kn5Z3YWpoFD8X1tMiV9t6rGOUn9lWGpHiQ5lTlMDhoDI2U60seIlJg%3D%3D
+08/13/14 09:52:15 [STAT] CORE_PATCH_CLNT PatchClientLogin.cpp 0225 [0] Connecting to Login Server
+08/13/14 09:52:15 [STAT] PLAT_NET        ClientSession.cpp    0247 [0] Server address (login.us.pirate101.com) resolved to (206.25.254.70) .
+08/13/14 09:52:15 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0508 [0] State: ST_VerifyingUser
+08/13/14 09:52:15 [STAT] CURRENT_STATE   PatchInterface.cpp   1051 [0] CPatchInterface::OnPCStateChange() m_currentState='Unauthen', a_newState=2.
+08/13/14 09:52:15 [STAT] CORE_PATCH_CLNT PatchClientLogin.cpp 0502 [0] Connected to Login Server (Phase 1)
+08/13/14 09:52:15 [STAT] CORE_PATCH_CLNT PatchClientLogin.cpp 0337 [0] Connected to Login Server (Phase 2)
+08/13/14 09:52:15 [STAT] CORE_PATCH_CLNT PatchClientLogin.cpp 0419 [0] Remote SID is 2695
+08/13/14 09:52:15 [STAT] CORE_PATCH_CLNT PatchClientLogin.cpp 0420 [0] PassKey 2 is  odO6WckyIL6CggdXw0J/k5LXjl0tgt4sW46rgO9AkvFkbK7OkGVot5hN/HNCHQQjrnikLggR3oaCGDKIeYl1Zg==
+08/13/14 09:52:15 [STAT] CORE_PATCH_CLNT PatchClientLogin.cpp 0421 [0] PassKey 3 is  b2FkCRSpFdFSd+Ju30uQKTy7u10EoHO7Zq8aGDjY1s8yTKtpWmePWip5vzBMIbcjxZHUzFbCAoomzAhhX9i1Ig==
+08/13/14 09:52:15 [DBGM] CORE_PATCH_CLNT PatchClientLogin.cpp 0775 [0] MSG_USER_VALIDATE_RSP: Success. Paying=0
+08/13/14 09:52:15 [STAT] CORE_PATCH_CLNT PatchClientLogin.cpp 0256 [0] Disconnecting from Login Server
+08/13/14 09:52:15 [STAT] CORE_PATCH_CLNT PatchClientLogin.cpp 0482 [0] Disconnected from Login Server
+08/13/14 09:52:17 [STAT] CORE_PATCH_CLNT PatchClientLogin.cpp 0282 [0] Post Login stopped
+08/13/14 09:52:17 [STAT] CORE_PATCH_CLNT PatchClient.cpp      1176 [0] User login successful
+08/13/14 09:52:17 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0527 [0] Event: ET_UserVerified
+08/13/14 09:52:17 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0753 [0] Lead copy the patch client files.
+08/13/14 09:52:17 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0508 [0] State: ST_LeadCopying
+08/13/14 09:52:17 [STAT] CURRENT_STATE   PatchInterface.cpp   1051 [0] CPatchInterface::OnPCStateChange() m_currentState='Authen', a_newState=3.
+08/13/14 09:52:17 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Backing up files...', m_fileProgress=50.
+08/13/14 09:52:17 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0995 [0] Duplicating files from C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankB/ to C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankA/
+08/13/14 09:52:17 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0995 [0] Duplicating files from C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankB/English/ to C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankA/English/
+08/13/14 09:52:17 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0995 [0] Duplicating files from C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankB/web/ to C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankA/web/
+08/13/14 09:52:17 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0995 [0] Duplicating files from C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankB/web/English/ to C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankA/web/English/
+08/13/14 09:52:17 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0995 [0] Duplicating files from C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankB/web/English/images/ to C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankA/web/English/images/
+08/13/14 09:52:17 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0995 [0] Duplicating files from C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankB/web/images/ to C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankA/web/images/
+08/13/14 09:52:17 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0527 [0] Event: ET_LeadCopied
+08/13/14 09:52:17 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0814 [0] Lead patch the patch client.
+08/13/14 09:52:17 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0508 [0] State: ST_LeadPatching
+08/13/14 09:52:17 [STAT] CURRENT_STATE   PatchInterface.cpp   1051 [0] CPatchInterface::OnPCStateChange() m_currentState='Authen', a_newState=4.
+08/13/14 09:52:17 [STAT] MessageManager  messagemanager.cpp   0212 [0]    Protocol Type: SYSTEM : All Common System Messages - Not Game Messages
+08/13/14 09:52:17 [STAT] MessageManager  messagemanager.cpp   0218 [0]    Message Service Type Already Loaded: #1
+08/13/14 09:52:17 [STAT] MessageManager  messagemanager.cpp   0212 [0]    Protocol Type: EXTENDEDBASE : Lower level messages for passing DML and RAW string
+08/13/14 09:52:17 [STAT] MessageManager  messagemanager.cpp   0218 [0]    Message Service Type Already Loaded: #2
+08/13/14 09:52:17 [STAT] MessageManager  messagemanager.cpp   0212 [0]    Protocol Type: PATCH : Patch Server Messages
+08/13/14 09:52:17 [STAT] MessageManager  messagemanager.cpp   0238 [0]    Message Module: PATCH : Loaded OK
+08/13/14 09:52:17 [STAT] CORE_PATCH_SYS  Patcher.cpp          1806 [0] Connecting to Patch Server
+08/13/14 09:52:17 [STAT] PLAT_NET        ClientSession.cpp    0247 [0] Server address (patch.us.pirate101.com) resolved to (206.25.254.70) .
+08/13/14 09:52:17 [STAT] PATCH_CLIENT    PatchInterface.cpp   0255 [0] Web page https://www.pirate101.com/P101PatchClient/New/patching?message=patching,18,AcctStatus,NEW,IdType,I,Id,0,MAC,02E6500C25F4,OST,OSX,Inst,2014-08-13,DiskSpace,93893,PT,2048,PA,1251,VT,2047,VA,2047,CPUFMS,6-69-1,KBDown,0,SecDown,0,PatchClientID,%7B503CC6FA-A7DC-4044-948B-AF947F612344%7D,CurrentState,Unauthen,FileProgress,0,TotalProgress,0 document has completed loading
+08/13/14 09:52:17 [STAT] PATCH_CLIENT    PatchInterface.cpp   0255 [0] CPatchClientUIDlg::OnDocumentComplete() Navigate(https://www.pirate101.com/autologin/P101PatchClient/New/patching?message=patching,18,AcctStatus,NEW,IdType,N,Id,jesse2956,MAC,02E6500C25F4,OST,OSX,Inst,2014-08-13,DiskSpace,93893,PT,2048,PA,1251,VT,2047,VA,2047,CPUFMS,6-69-1,KBDown,0,SecDown,0,PatchClientID,{503CC6FA-A7DC-4044-948B-AF947F612344},CurrentState,Restarted,FileProgress,0,TotalProgress,0&jsessionid=fUtMy4oCPsPtud3YGM6SJw%3D%3D%7CGl0OUDMM3bIZ8fdh%2BMcUpAlyyKElvmH2Kn5Z3YWpoFD8X1tMiV9t6rGOUn9lWGpHiQ5lTlMDhoDI2U60seIlJg%3D%3D)
+08/13/14 09:52:17 [STAT] CORE_PATCH_SYS  Patcher.cpp          0748 [0] Connected to Patch Server
+08/13/14 09:52:17 [STAT] CORE_PATCH_SYS  Patcher.cpp          1611 [0] Send MSG_LATEST_FILE_LIST_V2
+08/13/14 09:52:17 [STAT] CORE_PATCH_SYS  Patcher.cpp          0964 [0] Received MSG_LATEST_FILE_LIST_V2
+08/13/14 09:52:17 [STAT] CORE_PATCH_SYS  Patcher.cpp          0993 [0] UrlPrefix=http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild
+08/13/14 09:52:17 [STAT] CORE_PATCH_SYS  Patcher.cpp          0994 [0] UrlSuffix=?v=CAE75B50
+08/13/14 09:52:17 [STAT] CORE_PATCH_SYS  Patcher.cpp          1001 [0] Ver=1, Size=292830, CRC=CAE75B50, FileUrl=http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/Windows/LatestFileList.bin?v=CAE75B50
+08/13/14 09:52:17 [STAT] CORE_PATCH_SYS  Patcher.cpp          1572 [0] ProcessTransition: ACT_DisconnectPatchServer
+08/13/14 09:52:17 [STAT] CORE_PATCH_SYS  Patcher.cpp          0673 [0] Patch Server connection closed
+08/13/14 09:52:17 [DBGM] CORE_PATCH_SYS  Patcher.cpp          1948 [0] DevMode skip C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankA/BaseMessages.xml
+08/13/14 09:52:17 [DBGM] CORE_PATCH_SYS  Patcher.cpp          1948 [0] DevMode skip C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankA/English/Configurator.lang
+08/13/14 09:52:17 [DBGM] CORE_PATCH_SYS  Patcher.cpp          1948 [0] DevMode skip C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankA/English/PirateLauncher.lang
+08/13/14 09:52:17 [DBGM] CORE_PATCH_SYS  Patcher.cpp          1948 [0] DevMode skip C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankA/ExtendedBaseMessages.xml
+08/13/14 09:52:17 [DBGM] CORE_PATCH_SYS  Patcher.cpp          1948 [0] DevMode skip C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankA/LoginMessages.xml
+08/13/14 09:52:17 [DBGM] CORE_PATCH_SYS  Patcher.cpp          1948 [0] DevMode skip C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankA/PatchMessages.xml
+08/13/14 09:52:17 [DBGM] CORE_PATCH_SYS  Patcher.cpp          1948 [0] DevMode skip C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankA/web/English/default.html
+08/13/14 09:52:17 [DBGM] CORE_PATCH_SYS  Patcher.cpp          1948 [0] DevMode skip C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankA/web/English/error.html
+08/13/14 09:52:17 [DBGM] CORE_PATCH_SYS  Patcher.cpp          1948 [0] DevMode skip C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankA/web/English/firewall.html
+08/13/14 09:52:17 [DBGM] CORE_PATCH_SYS  Patcher.cpp          1948 [0] DevMode skip C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankA/web/English/firewallVista.html
+08/13/14 09:52:17 [DBGM] CORE_PATCH_SYS  Patcher.cpp          1948 [0] DevMode skip C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankA/web/English/images/contentpattern.jpg
+08/13/14 09:52:17 [DBGM] CORE_PATCH_SYS  Patcher.cpp          1948 [0] DevMode skip C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankA/web/English/images/pig.gif
+08/13/14 09:52:17 [DBGM] CORE_PATCH_SYS  Patcher.cpp          1948 [0] DevMode skip C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankA/Configurator.exe
+08/13/14 09:52:17 [DBGM] CORE_PATCH_SYS  Patcher.cpp          1948 [0] DevMode skip C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankA/PatchConfig.xml
+08/13/14 09:52:17 [DBGM] CORE_PATCH_SYS  Patcher.cpp          1948 [0] DevMode skip C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankA/Pirate.skf
+08/13/14 09:52:17 [DBGM] CORE_PATCH_SYS  Patcher.cpp          1948 [0] DevMode skip C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankA/PirateLauncher.exe
+08/13/14 09:52:17 [DBGM] CORE_PATCH_SYS  Patcher.cpp          1948 [0] DevMode skip C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankA/PirateLauncherUI.dll
+08/13/14 09:52:17 [DBGM] CORE_PATCH_SYS  Patcher.cpp          1948 [0] DevMode skip C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankA/SkinCrafterDll.dll
+08/13/14 09:52:17 [DBGM] CORE_PATCH_SYS  Patcher.cpp          1948 [0] DevMode skip C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankA/unicows.dll
+08/13/14 09:52:17 [DBGM] CORE_PATCH_SYS  Patcher.cpp          1948 [0] DevMode skip C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankA/zlib1.dll
+08/13/14 09:52:17 [STAT] CORE_PATCH_SYS  Patcher.cpp          2057 [0] Patch completed.
+08/13/14 09:52:17 [STAT] CORE_PATCH_SYS  Patcher.cpp          2058 [0]    Package name:      PatchClient
+08/13/14 09:52:17 [STAT] CORE_PATCH_SYS  Patcher.cpp          2059 [0]    Files altered:     0
+08/13/14 09:52:17 [STAT] CORE_PATCH_CLNT PatchClient.cpp      1317 [0] Lead patched successful
+08/13/14 09:52:17 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0527 [0] Event: ET_LeadUnchanged
+08/13/14 09:52:17 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0918 [0] Patch the game.
+08/13/14 09:52:17 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0508 [0] State: ST_GamePatching
+08/13/14 09:52:17 [STAT] CURRENT_STATE   PatchInterface.cpp   1051 [0] CPatchInterface::OnPCStateChange() m_currentState='Authen', a_newState=5.
+08/13/14 09:52:17 [STAT] CURRENT_STATE   PatchInterface.cpp   0944 [0] CPatchInterface::OnReportTotalProgressToUI() m_totalProgress=0.
+08/13/14 09:52:17 [WARN] CORE_PATCH_SYS  Patcher.cpp          2588 [0] Unable to load CRC Cache file 'C:\Program Files\KingsIsle Entertainment\Pirate101\PatchInfo//CRC_Player-WorldData.dat'. Error: 2.
+08/13/14 09:52:17 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 2515 [0] WadDownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Data/GameData/Player-WorldData.wad?v=CAE75B50).
+08/13/14 09:52:17 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 2740 [0] Requesting Wad Header URL: http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Data/GameData/Player-WorldData.wad.hdr.gz?v=CAE75B50,     200942 bytes
+08/13/14 09:52:17 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Player-WorldData.wad', m_fileProgress=0.
+08/13/14 09:52:17 [DBGM] CORE_HTTP_FILE  KIHttpFileSession.cpp 2834 [0] Downloading     200942 bytes for Wad Header 
+08/13/14 09:52:18 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Player-WorldData.wad', m_fileProgress=16.
+08/13/14 09:52:18 [STAT] PATCH_CLIENT    PatchInterface.cpp   0255 [0] Web page https://www.pirate101.com/P101PatchClient/New/patching?message=patching,18,AcctStatus,NEW,IdType,N,Id,jesse2956,MAC,02E6500C25F4,OST,OSX,Inst,2014-08-13,DiskSpace,93893,PT,2048,PA,1251,VT,2047,VA,2047,CPUFMS,6-69-1,KBDown,0,SecDown,0,PatchClientID,%7B503CC6FA-A7DC-4044-948B-AF947F612344%7D,CurrentState,Restarted,FileProgress,0,TotalProgress,0 document has completed loading
+08/13/14 09:52:18 [STAT] PATCH_CLIENT    PatchInterface.cpp   0255 [0] CPatchClientUIDlg::OnDocumentComplete() Refreshing, mismatch https://www.pirate101.com/P101PatchClient/New/patching != https://www.pirate101.com/autologin/P101PatchClient/New/patching
+08/13/14 09:52:18 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Player-WorldData.wad', m_fileProgress=77.
+08/13/14 09:52:18 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Player-WorldData.wad', m_fileProgress=99.
+08/13/14 09:52:18 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Player-WorldData.wad', m_fileProgress=100.
+08/13/14 09:52:18 [STAT] CURRENT_STATE   PatchInterface.cpp   0944 [0] CPatchInterface::OnReportTotalProgressToUI() m_totalProgress=20.
+08/13/14 09:52:18 [WARN] CORE_PATCH_SYS  Patcher.cpp          2588 [0] Unable to load CRC Cache file 'C:\Program Files\KingsIsle Entertainment\Pirate101\PatchInfo//CRC_Mob-WorldData.dat'. Error: 2.
+08/13/14 09:52:18 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Mob-WorldData.wad', m_fileProgress=0.
+08/13/14 09:52:17 [DBGM] CORE_HTTP_FILE  KIHttpFileSession.cpp 2834 [0] Downloading     200942 bytes for Wad Header | (x2)
+08/13/14 09:52:18 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 2515 [0] WadDownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Data/GameData/Mob-WorldData.wad?v=CAE75B50).
+08/13/14 09:52:18 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 2740 [0] Requesting Wad Header URL: http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Data/GameData/Mob-WorldData.wad.hdr.gz?v=CAE75B50,     807634 bytes
+08/13/14 09:52:18 [DBGM] CORE_HTTP_FILE  KIHttpFileSession.cpp 2834 [0] Downloading     807634 bytes for Wad Header 
+08/13/14 09:52:19 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Mob-WorldData.wad', m_fileProgress=0.
+08/13/14 09:52:19 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Mob-WorldData.wad', m_fileProgress=11.
+08/13/14 09:52:19 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Mob-WorldData.wad', m_fileProgress=22.
+08/13/14 09:52:19 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Mob-WorldData.wad', m_fileProgress=33.
+08/13/14 09:52:20 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Mob-WorldData.wad', m_fileProgress=45.
+08/13/14 09:52:20 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Mob-WorldData.wad', m_fileProgress=56.
+08/13/14 09:52:20 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Mob-WorldData.wad', m_fileProgress=65.
+08/13/14 09:52:20 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Mob-WorldData.wad', m_fileProgress=74.
+08/13/14 09:52:21 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Mob-WorldData.wad', m_fileProgress=85.
+08/13/14 09:52:21 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Mob-WorldData.wad', m_fileProgress=95.
+08/13/14 09:52:21 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Mob-WorldData.wad', m_fileProgress=100.
+08/13/14 09:52:21 [STAT] CURRENT_STATE   PatchInterface.cpp   0944 [0] CPatchInterface::OnReportTotalProgressToUI() m_totalProgress=40.
+08/13/14 09:52:21 [WARN] CORE_PATCH_SYS  Patcher.cpp          2588 [0] Unable to load CRC Cache file 'C:\Program Files\KingsIsle Entertainment\Pirate101\PatchInfo//CRC_Ship-WorldData.dat'. Error: 2.
+08/13/14 09:52:21 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Ship-WorldData.wad', m_fileProgress=0.
+08/13/14 09:52:18 [DBGM] CORE_HTTP_FILE  KIHttpFileSession.cpp 2834 [0] Downloading     807634 bytes for Wad Header | (x7)
+08/13/14 09:52:21 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 2515 [0] WadDownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Data/GameData/Ship-WorldData.wad?v=CAE75B50).
+08/13/14 09:52:21 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 2740 [0] Requesting Wad Header URL: http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Data/GameData/Ship-WorldData.wad.hdr.gz?v=CAE75B50,      95133 bytes
+08/13/14 09:52:21 [DBGM] CORE_HTTP_FILE  KIHttpFileSession.cpp 2834 [0] Downloading      95133 bytes for Wad Header 
+08/13/14 09:52:21 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Ship-WorldData.wad', m_fileProgress=52.
+08/13/14 09:52:21 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Ship-WorldData.wad', m_fileProgress=100.
+08/13/14 09:52:21 [STAT] CURRENT_STATE   PatchInterface.cpp   0944 [0] CPatchInterface::OnReportTotalProgressToUI() m_totalProgress=60.
+08/13/14 09:52:21 [WARN] CORE_PATCH_SYS  Patcher.cpp          2588 [0] Unable to load CRC Cache file 'C:\Program Files\KingsIsle Entertainment\Pirate101\PatchInfo//CRC_Sound-WorldData.dat'. Error: 2.
+08/13/14 09:52:21 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Sound-WorldData.wad', m_fileProgress=0.
+08/13/14 09:52:21 [DBGM] CORE_HTTP_FILE  KIHttpFileSession.cpp 2834 [0] Downloading      95133 bytes for Wad Header 
+08/13/14 09:52:21 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 2515 [0] WadDownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Data/GameData/Sound-WorldData.wad?v=CAE75B50).
+08/13/14 09:52:21 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 2740 [0] Requesting Wad Header URL: http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Data/GameData/Sound-WorldData.wad.hdr.gz?v=CAE75B50,      65611 bytes
+08/13/14 09:52:21 [DBGM] CORE_HTTP_FILE  KIHttpFileSession.cpp 2834 [0] Downloading      65611 bytes for Wad Header 
+08/13/14 09:52:22 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Sound-WorldData.wad', m_fileProgress=17.
+08/13/14 09:52:22 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Sound-WorldData.wad', m_fileProgress=34.
+08/13/14 09:52:22 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Sound-WorldData.wad', m_fileProgress=54.
+08/13/14 09:52:22 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Sound-WorldData.wad', m_fileProgress=76.
+08/13/14 09:52:23 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Sound-WorldData.wad', m_fileProgress=99.
+08/13/14 09:52:23 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Sound-WorldData.wad', m_fileProgress=100.
+08/13/14 09:52:23 [STAT] CURRENT_STATE   PatchInterface.cpp   0944 [0] CPatchInterface::OnReportTotalProgressToUI() m_totalProgress=80.
+08/13/14 09:52:23 [WARN] CORE_PATCH_SYS  Patcher.cpp          2588 [0] Unable to load CRC Cache file 'C:\Program Files\KingsIsle Entertainment\Pirate101\PatchInfo//CRC_Base.dat'. Error: 2.
+08/13/14 09:52:23 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/BugReporter.ico', m_fileProgress=0.
+08/13/14 09:52:21 [DBGM] CORE_HTTP_FILE  KIHttpFileSession.cpp 2834 [0] Downloading      65611 bytes for Wad Header 
+08/13/14 09:52:23 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Bin/BugReporter.ini?v=CAE75B50).
+08/13/14 09:52:23 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/BugReporter.ini', m_fileProgress=0.
+08/13/14 09:52:23 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/BugReporter.ini', m_fileProgress=100.
+08/13/14 09:52:23 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Bin/EmbeddedBrowserConfig.xml?v=CAE75B50).
+08/13/14 09:52:23 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/EmbeddedBrowserConfig.xml', m_fileProgress=0.
+08/13/14 09:52:23 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/EmbeddedBrowserConfig.xml', m_fileProgress=100.
+08/13/14 09:52:23 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Bin/English/BugReporter.lang?v=CAE75B50).
+08/13/14 09:52:23 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/English/BugReporter.lang', m_fileProgress=0.
+08/13/14 09:52:23 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/English/BugReporter.lang', m_fileProgress=100.
+08/13/14 09:52:23 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Bin/Loading.jpf?v=CAE75B50).
+08/13/14 09:52:23 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/Loading.jpf', m_fileProgress=0.
+08/13/14 09:52:23 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/Loading.jpf', m_fileProgress=100.
+08/13/14 09:52:23 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Bin/ODE-LICENSE-BSD.TXT?v=CAE75B50).
+08/13/14 09:52:23 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/ODE-LICENSE-BSD.TXT', m_fileProgress=0.
+08/13/14 09:52:23 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/ODE-LICENSE-BSD.TXT', m_fileProgress=100.
+08/13/14 09:52:23 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Bin/PatchConfig.xml?v=CAE75B50).
+08/13/14 09:52:23 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/PatchConfig.xml', m_fileProgress=0.
+08/13/14 09:52:23 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/PatchConfig.xml', m_fileProgress=100.
+08/13/14 09:52:23 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Bin/data.dat?v=CAE75B50).
+08/13/14 09:52:23 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/data.dat', m_fileProgress=0.
+08/13/14 09:52:23 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/data.dat', m_fileProgress=100.
+08/13/14 09:52:23 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Bin/license.txt?v=CAE75B50).
+08/13/14 09:52:23 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/license.txt', m_fileProgress=0.
+08/13/14 09:52:23 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/license.txt', m_fileProgress=100.
+08/13/14 09:52:23 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Bin/revision.dat?v=CAE75B50).
+08/13/14 09:52:23 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/revision.dat', m_fileProgress=0.
+08/13/14 09:52:23 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/revision.dat', m_fileProgress=100.
+08/13/14 09:52:23 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/DefaultConfig.xml', m_fileProgress=0.
+08/13/14 09:52:23 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/DefaultPreferences.xml', m_fileProgress=0.
+08/13/14 09:52:23 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Data/GameData/Root.wad?v=CAE75B50).
+08/13/14 09:52:23 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Root.wad', m_fileProgress=0.
+08/13/14 09:52:23 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Root.wad', m_fileProgress=3.
+08/13/14 09:52:23 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Root.wad', m_fileProgress=8.
+08/13/14 09:52:24 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Root.wad', m_fileProgress=12.
+08/13/14 09:52:24 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Root.wad', m_fileProgress=16.
+08/13/14 09:52:24 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Root.wad', m_fileProgress=18.
+08/13/14 09:52:24 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Root.wad', m_fileProgress=21.
+08/13/14 09:52:25 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Root.wad', m_fileProgress=24.
+08/13/14 09:52:25 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Root.wad', m_fileProgress=27.
+08/13/14 09:52:25 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Root.wad', m_fileProgress=30.
+08/13/14 09:52:26 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Root.wad', m_fileProgress=33.
+08/13/14 09:52:26 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Root.wad', m_fileProgress=36.
+08/13/14 09:52:26 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Root.wad', m_fileProgress=39.
+08/13/14 09:52:26 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Root.wad', m_fileProgress=42.
+08/13/14 09:52:27 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Root.wad', m_fileProgress=45.
+08/13/14 09:52:27 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Root.wad', m_fileProgress=48.
+08/13/14 09:52:27 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Root.wad', m_fileProgress=51.
+08/13/14 09:52:27 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Root.wad', m_fileProgress=54.
+08/13/14 09:52:28 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Root.wad', m_fileProgress=57.
+08/13/14 09:52:28 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Root.wad', m_fileProgress=61.
+08/13/14 09:52:28 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Root.wad', m_fileProgress=63.
+08/13/14 09:52:28 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Root.wad', m_fileProgress=65.
+08/13/14 09:52:29 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Root.wad', m_fileProgress=68.
+08/13/14 09:52:29 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Root.wad', m_fileProgress=71.
+08/13/14 09:52:29 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Root.wad', m_fileProgress=74.
+08/13/14 09:52:30 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Root.wad', m_fileProgress=77.
+08/13/14 09:52:30 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Root.wad', m_fileProgress=79.
+08/13/14 09:52:30 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Root.wad', m_fileProgress=82.
+08/13/14 09:52:30 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Root.wad', m_fileProgress=84.
+08/13/14 09:52:31 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Root.wad', m_fileProgress=87.
+08/13/14 09:52:31 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Root.wad', m_fileProgress=90.
+08/13/14 09:52:31 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Root.wad', m_fileProgress=93.
+08/13/14 09:52:31 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Root.wad', m_fileProgress=96.
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Root.wad', m_fileProgress=99.
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Root.wad', m_fileProgress=100.
+08/13/14 09:52:32 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Data/GameData/Shaders/BloomBrightPass.fx?v=CAE75B50).
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Shaders/BloomBrightPass.fx', m_fileProgress=0.
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Shaders/BloomBrightPass.fx', m_fileProgress=100.
+08/13/14 09:52:32 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Data/GameData/Shaders/BloomCombine.fx?v=CAE75B50).
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Shaders/BloomCombine.fx', m_fileProgress=0.
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Shaders/BloomCombine.fx', m_fileProgress=100.
+08/13/14 09:52:32 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Data/GameData/Shaders/BloomDownFilter16x.fx?v=CAE75B50).
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Shaders/BloomDownFilter16x.fx', m_fileProgress=0.
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Shaders/BloomDownFilter16x.fx', m_fileProgress=100.
+08/13/14 09:52:32 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Data/GameData/Shaders/BloomDownFilter4x.fx?v=CAE75B50).
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Shaders/BloomDownFilter4x.fx', m_fileProgress=0.
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Shaders/BloomDownFilter4x.fx', m_fileProgress=100.
+08/13/14 09:52:32 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Data/GameData/Shaders/BloomHoriz.fx?v=CAE75B50).
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Shaders/BloomHoriz.fx', m_fileProgress=0.
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Shaders/BloomHoriz.fx', m_fileProgress=100.
+08/13/14 09:52:32 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Data/GameData/Shaders/BloomUpFilter4x.fx?v=CAE75B50).
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Shaders/BloomUpFilter4x.fx', m_fileProgress=0.
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Shaders/BloomUpFilter4x.fx', m_fileProgress=100.
+08/13/14 09:52:32 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Data/GameData/Shaders/BloomVert.fx?v=CAE75B50).
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Shaders/BloomVert.fx', m_fileProgress=0.
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Shaders/BloomVert.fx', m_fileProgress=100.
+08/13/14 09:52:32 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Data/GameData/Shaders/HDRScene.fx?v=CAE75B50).
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Shaders/HDRScene.fx', m_fileProgress=0.
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Shaders/HDRScene.fx', m_fileProgress=100.
+08/13/14 09:52:32 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Data/GameData/Shaders/KIMaterialAddVC.NSB?v=CAE75B50).
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Shaders/KIMaterialAddVC.NSB', m_fileProgress=0.
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Shaders/KIMaterialAddVC.NSB', m_fileProgress=100.
+08/13/14 09:52:32 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Data/GameData/Shaders/KIMaterialAlphaVC.NSB?v=CAE75B50).
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Shaders/KIMaterialAlphaVC.NSB', m_fileProgress=0.
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Shaders/KIMaterialAlphaVC.NSB', m_fileProgress=100.
+08/13/14 09:52:32 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Data/GameData/Shaders/KITextureBlender.NSB?v=CAE75B50).
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Shaders/KITextureBlender.NSB', m_fileProgress=0.
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Shaders/KITextureBlender.NSB', m_fileProgress=100.
+08/13/14 09:52:32 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Data/GameData/Shaders/MRTEffects.fx?v=CAE75B50).
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Shaders/MRTEffects.fx', m_fileProgress=0.
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Shaders/MRTEffects.fx', m_fileProgress=100.
+08/13/14 09:52:32 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Data/GameData/Shaders/passthrough.fx?v=CAE75B50).
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Shaders/passthrough.fx', m_fileProgress=0.
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Shaders/passthrough.fx', m_fileProgress=100.
+08/13/14 09:52:32 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Data/GameData/Shaders/post_filters.fx?v=CAE75B50).
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Shaders/post_filters.fx', m_fileProgress=0.
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/Shaders/post_filters.fx', m_fileProgress=100.
+08/13/14 09:52:32 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Data/GameData/ZoneData/_Shared/WorldData/Sound/Miles/binkawin.asi?v=CAE75B50).
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/ZoneData/_Shared/WorldData/Sound/Miles/binkawin.asi', m_fileProgress=0.
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/ZoneData/_Shared/WorldData/Sound/Miles/binkawin.asi', m_fileProgress=100.
+08/13/14 09:52:32 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Data/GameData/ZoneData/_Shared/WorldData/Sound/Miles/mssdolby.flt?v=CAE75B50).
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/ZoneData/_Shared/WorldData/Sound/Miles/mssdolby.flt', m_fileProgress=0.
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/ZoneData/_Shared/WorldData/Sound/Miles/mssdolby.flt', m_fileProgress=100.
+08/13/14 09:52:32 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Data/GameData/ZoneData/_Shared/WorldData/Sound/Miles/mssds3d.flt?v=CAE75B50).
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/ZoneData/_Shared/WorldData/Sound/Miles/mssds3d.flt', m_fileProgress=0.
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/ZoneData/_Shared/WorldData/Sound/Miles/mssds3d.flt', m_fileProgress=100.
+08/13/14 09:52:32 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Data/GameData/ZoneData/_Shared/WorldData/Sound/Miles/mssdsp.flt?v=CAE75B50).
+08/13/14 09:52:32 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/ZoneData/_Shared/WorldData/Sound/Miles/mssdsp.flt', m_fileProgress=0.
+08/13/14 09:52:33 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/ZoneData/_Shared/WorldData/Sound/Miles/mssdsp.flt', m_fileProgress=100.
+08/13/14 09:52:33 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Data/GameData/ZoneData/_Shared/WorldData/Sound/Miles/msseax.flt?v=CAE75B50).
+08/13/14 09:52:33 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/ZoneData/_Shared/WorldData/Sound/Miles/msseax.flt', m_fileProgress=0.
+08/13/14 09:52:33 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/ZoneData/_Shared/WorldData/Sound/Miles/msseax.flt', m_fileProgress=100.
+08/13/14 09:52:33 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Data/GameData/ZoneData/_Shared/WorldData/Sound/Miles/mssmp3.asi?v=CAE75B50).
+08/13/14 09:52:33 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/ZoneData/_Shared/WorldData/Sound/Miles/mssmp3.asi', m_fileProgress=0.
+08/13/14 09:52:33 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/ZoneData/_Shared/WorldData/Sound/Miles/mssmp3.asi', m_fileProgress=100.
+08/13/14 09:52:33 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Data/GameData/ZoneData/_Shared/WorldData/Sound/Miles/msssrs.flt?v=CAE75B50).
+08/13/14 09:52:33 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/ZoneData/_Shared/WorldData/Sound/Miles/msssrs.flt', m_fileProgress=0.
+08/13/14 09:52:33 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/ZoneData/_Shared/WorldData/Sound/Miles/msssrs.flt', m_fileProgress=100.
+08/13/14 09:52:33 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Data/GameData/ZoneData/_Shared/WorldData/Sound/Miles/mssvoice.asi?v=CAE75B50).
+08/13/14 09:52:33 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/ZoneData/_Shared/WorldData/Sound/Miles/mssvoice.asi', m_fileProgress=0.
+08/13/14 09:52:33 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Data/GameData/ZoneData/_Shared/WorldData/Sound/Miles/mssvoice.asi', m_fileProgress=100.
+08/13/14 09:52:33 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1513 [0] ComprDownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Windows/Bin/BugReportBuilder.dll.gz?v=CAE75B50).
+08/13/14 09:52:33 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/BugReportBuilder.dll', m_fileProgress=0.
+08/13/14 09:52:33 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/BugReportBuilder.dll', m_fileProgress=100.
+08/13/14 09:52:33 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/BugReporter.bat', m_fileProgress=0.
+08/13/14 09:52:33 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1513 [0] ComprDownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Windows/Bin/BugReporter.exe.gz?v=CAE75B50).
+08/13/14 09:52:33 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/BugReporter.exe', m_fileProgress=0.
+08/13/14 09:52:33 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/BugReporter.exe', m_fileProgress=100.
+08/13/14 09:52:33 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Windows/Bin/MG_CoinDrop.dll?v=CAE75B50).
+08/13/14 09:52:33 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/MG_CoinDrop.dll', m_fileProgress=0.
+08/13/14 09:52:33 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/MG_CoinDrop.dll', m_fileProgress=100.
+08/13/14 09:52:33 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Windows/Bin/MG_Pirate's_Pub.dll?v=CAE75B50).
+08/13/14 09:52:33 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/MG_Pirate's_Pub.dll', m_fileProgress=0.
+08/13/14 09:52:33 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/MG_Pirate's_Pub.dll', m_fileProgress=100.
+08/13/14 09:52:33 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1513 [0] ComprDownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Windows/Bin/MG_Powder_Keg.dll.gz?v=CAE75B50).
+08/13/14 09:52:33 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/MG_Powder_Keg.dll', m_fileProgress=0.
+08/13/14 09:52:33 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/MG_Powder_Keg.dll', m_fileProgress=100.
+08/13/14 09:52:33 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1513 [0] ComprDownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Windows/Bin/MG_RatAttack.dll.gz?v=CAE75B50).
+08/13/14 09:52:33 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/MG_RatAttack.dll', m_fileProgress=0.
+08/13/14 09:52:33 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/MG_RatAttack.dll', m_fileProgress=100.
+08/13/14 09:52:33 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Windows/Bin/MG_Rogue's_Range.dll?v=CAE75B50).
+08/13/14 09:52:33 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/MG_Rogue's_Range.dll', m_fileProgress=0.
+08/13/14 09:52:33 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/MG_Rogue's_Range.dll', m_fileProgress=100.
+08/13/14 09:52:33 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Windows/Bin/MG_Windjammer.dll?v=CAE75B50).
+08/13/14 09:52:33 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/MG_Windjammer.dll', m_fileProgress=0.
+08/13/14 09:52:33 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/MG_Windjammer.dll', m_fileProgress=100.
+08/13/14 09:52:33 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Windows/Bin/PatchConfig.xml?v=CAE75B50).
+08/13/14 09:52:33 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/PatchConfig.xml', m_fileProgress=0.
+08/13/14 09:52:33 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/PatchConfig.xml', m_fileProgress=100.
+08/13/14 09:52:33 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1513 [0] ComprDownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Windows/Bin/Pirate.exe.gz?v=CAE75B50).
+08/13/14 09:52:33 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/Pirate.exe', m_fileProgress=0.
+08/13/14 09:52:33 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/Pirate.exe', m_fileProgress=5.
+08/13/14 09:52:33 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/Pirate.exe', m_fileProgress=11.
+08/13/14 09:52:34 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/Pirate.exe', m_fileProgress=16.
+08/13/14 09:52:34 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/Pirate.exe', m_fileProgress=21.
+08/13/14 09:52:34 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/Pirate.exe', m_fileProgress=27.
+08/13/14 09:52:35 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/Pirate.exe', m_fileProgress=100.
+08/13/14 09:52:35 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1513 [0] ComprDownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Windows/Bin/d3dx9_31.dll.gz?v=CAE75B50).
+08/13/14 09:52:35 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/d3dx9_31.dll', m_fileProgress=0.
+08/13/14 09:52:35 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/d3dx9_31.dll', m_fileProgress=100.
+08/13/14 09:52:35 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1513 [0] ComprDownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Windows/Bin/dbghelp.dll.gz?v=CAE75B50).
+08/13/14 09:52:35 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/dbghelp.dll', m_fileProgress=0.
+08/13/14 09:52:35 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/dbghelp.dll', m_fileProgress=100.
+08/13/14 09:52:35 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1513 [0] ComprDownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Windows/Bin/mss32.dll.gz?v=CAE75B50).
+08/13/14 09:52:35 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/mss32.dll', m_fileProgress=0.
+08/13/14 09:52:35 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/mss32.dll', m_fileProgress=100.
+08/13/14 09:52:35 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1513 [0] ComprDownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Windows/Bin/mss32midi.dll.gz?v=CAE75B50).
+08/13/14 09:52:35 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/mss32midi.dll', m_fileProgress=0.
+08/13/14 09:52:35 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/mss32midi.dll', m_fileProgress=100.
+08/13/14 09:52:35 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1513 [0] ComprDownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Windows/Bin/unicows.dll.gz?v=CAE75B50).
+08/13/14 09:52:35 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/unicows.dll', m_fileProgress=0.
+08/13/14 09:52:35 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/unicows.dll', m_fileProgress=100.
+08/13/14 09:52:35 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Windows/Bin/zlib1.dll?v=CAE75B50).
+08/13/14 09:52:35 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/zlib1.dll', m_fileProgress=0.
+08/13/14 09:52:35 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Bin/zlib1.dll', m_fileProgress=100.
+08/13/14 09:52:35 [STAT] CORE_PATCH_CLNT PatchClient.cpp      1336 [0] Game patched successful
+08/13/14 09:52:35 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0527 [0] Event: ET_GamePatched
+08/13/14 09:52:35 [STAT] CORE_PATCH_CLNT PatchClient.cpp      1342 [0] Total patch time: 18.32 secs
+08/13/14 09:52:35 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0508 [0] State: ST_Completed
+08/13/14 09:52:35 [STAT] CURRENT_STATE   PatchInterface.cpp   1051 [0] CPatchInterface::OnPCStateChange() m_currentState='Authen', a_newState=6.
+08/13/14 09:52:35 [STAT] PATCH_CLIENT    PatchInterface.cpp   0745 [0] Patch completed.
+08/13/14 09:52:35 [STAT] CURRENT_STATE   PatchInterface.cpp   0944 [0] CPatchInterface::OnReportTotalProgressToUI() m_totalProgress=100.
+08/13/14 09:52:35 [STAT] PATCH_CLIENT    PatchInterface.cpp   0386 [0] URL Message: ?message=patchComplete,18,AcctStatus,NEW,IdType,N,Id,jesse2956,MAC,02E6500C25F4,OST,OSX,Inst,2014-08-13,DiskSpace,92534,PT,2048,PA,1244,VT,2047,VA,2047,CPUFMS,6-69-1,KBDown,72732,SecDown,18,PatchClientID,{503CC6FA-A7DC-4044-948B-AF947F612344},CurrentState,Authen,FileProgress,100,TotalProgress,100
+08/13/14 09:52:35 [STAT] PATCH_CLIENT    PatchInterface.cpp   0796 [0] CPatchInterface::OnPCCompleted() GotoPage(https://www.pirate101.com/P101PatchClient/New/patchComplete?message=patchComplete,18,AcctStatus,NEW,IdType,N,Id,jesse2956,MAC,02E6500C25F4,OST,OSX,Inst,2014-08-13,DiskSpace,92534,PT,2048,PA,1244,VT,2047,VA,2047,CPUFMS,6-69-1,KBDown,72732,SecDown,18,PatchClientID,{503CC6FA-A7DC-4044-948B-AF947F612344},CurrentState,Authen,FileProgress,100,TotalProgress,100)
+08/13/14 09:52:35 [STAT] PATCH_CLIENT    PatchInterface.cpp   0729 [0] GotoPage - https://www.pirate101.com/autologin/P101PatchClient/New/patchComplete?message=patchComplete,18,AcctStatus,NEW,IdType,N,Id,jesse2956,MAC,02E6500C25F4,OST,OSX,Inst,2014-08-13,DiskSpace,92534,PT,2048,PA,1244,VT,2047,VA,2047,CPUFMS,6-69-1,KBDown,72732,SecDown,18,PatchClientID,{503CC6FA-A7DC-4044-948B-AF947F612344},CurrentState,Authen,FileProgress,100,TotalProgress,100&jsessionid=fUtMy4oCPsPtud3YGM6SJw%3D%3D%7CGl0OUDMM3bIZ8fdh%2BMcUpAlyyKElvmH2Kn5Z3YWpoFD8X1tMiV9t6rGOUn9lWGpHiQ5lTlMDhoDI2U60seIlJg%3D%3D
+08/13/14 09:52:35 [STAT] PATCH_CLIENT    PatchInterface.cpp   0255 [0] CPatchClientUIDlg::GotoPage() Navigate(https://www.pirate101.com/autologin/P101PatchClient/New/patchComplete?message=patchComplete,18,AcctStatus,NEW,IdType,N,Id,jesse2956,MAC,02E6500C25F4,OST,OSX,Inst,2014-08-13,DiskSpace,92534,PT,2048,PA,1244,VT,2047,VA,2047,CPUFMS,6-69-1,KBDown,72732,SecDown,18,PatchClientID,{503CC6FA-A7DC-4044-948B-AF947F612344},CurrentState,Authen,FileProgress,100,TotalProgress,100&jsessionid=fUtMy4oCPsPtud3YGM6SJw%3D%3D%7CGl0OUDMM3bIZ8fdh%2BMcUpAlyyKElvmH2Kn5Z3YWpoFD8X1tMiV9t6rGOUn9lWGpHiQ5lTlMDhoDI2U60seIlJg%3D%3D)
+08/13/14 09:52:36 [STAT] PATCH_CLIENT    PatchInterface.cpp   0255 [0] Web page https://www.pirate101.com/P101PatchClient/New/patchComplete?message=patchComplete,18,AcctStatus,NEW,IdType,N,Id,jesse2956,MAC,02E6500C25F4,OST,OSX,Inst,2014-08-13,DiskSpace,92534,PT,2048,PA,1244,VT,2047,VA,2047,CPUFMS,6-69-1,KBDown,72732,SecDown,18,PatchClientID,%7B503CC6FA-A7DC-4044-948B-AF947F612344%7D,CurrentState,Authen,FileProgress,100,TotalProgress,100 document has completed loading
+08/13/14 09:52:36 [STAT] PATCH_CLIENT    PatchInterface.cpp   0255 [0] CPatchClientUIDlg::OnDocumentComplete() Refreshing, mismatch https://www.pirate101.com/P101PatchClient/New/patchComplete != https://www.pirate101.com/autologin/P101PatchClient/New/patchComplete
+08/13/14 09:52:40 [STAT] PATCH_CLIENT    PatchInterface.cpp   0401 [0] Launching game client.
+08/13/14 09:52:40 [STAT] PATCH_CLIENT    PatchInterface.cpp   0386 [0] URL Message: ?message=UserPlay,18,AcctStatus,NEW,IdType,N,Id,jesse2956,MAC,02E6500C25F4,OST,OSX,Inst,2014-08-13,DiskSpace,92534,PT,2048,PA,1244,VT,2047,VA,2047,CPUFMS,6-69-1,KBDown,0,SecDown,0,PatchClientID,{503CC6FA-A7DC-4044-948B-AF947F612344},CurrentState,Authen,FileProgress,100,TotalProgress,100
+08/13/14 09:52:40 [STAT] PATCH_CLIENT    PatchInterface.cpp   0419 [0] Command: Command: "C:\Program Files\KingsIsle Entertainment\Pirate101\Bin/Pirate.exe" -L login.us.pirate101.com 12000 -U ..4295070541392 ***

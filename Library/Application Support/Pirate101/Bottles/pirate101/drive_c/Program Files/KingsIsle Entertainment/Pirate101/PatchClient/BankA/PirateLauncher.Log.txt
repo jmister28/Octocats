@@ -1,0 +1,113 @@
+08/13/14 09:52:00 [WARN] CORE_PATCH_CLNT PatchClientConfig.cpp 0156 [0] Unable to read optional parameter LocalNewsURL from the config file.
+08/13/14 09:52:00 [WARN] CORE_PATCH_CLNT PatchClientConfig.cpp 0156 [0] Unable to read optional parameter FallBackURL from the config file.
+08/13/14 09:52:00 [WARN] CORE_PATCH_CLNT PatchClientConfig.cpp 0156 [0] Unable to read optional parameter PatchInfoDirectory from the config file.
+08/13/14 09:52:00 [WARN] CORE_PATCH_CLNT PatchClientConfig.cpp 0156 [0] Unable to read optional parameter EulaURL from the config file.
+08/13/14 09:52:00 [WARN] CORE_PATCH_CLNT PatchClientConfig.cpp 0156 [0] Unable to read optional parameter ServerListURL from the config file.
+08/13/14 09:52:00 [WARN] CORE_PATCH_CLNT PatchClientConfig.cpp 0156 [0] Unable to read optional parameter FailSafeURL from the config file.
+08/13/14 09:52:00 [STAT] ResourceManager ResourceManager.cpp  0287 [0] ResourceManager releasing data.
+08/13/14 09:52:00 [STAT] ResourceManager ResourceManager.cpp  0279 [0] Loading CSR data.
+08/13/14 09:52:00 [STAT] MessageManager  messagemanager.cpp   0212 [0]    Protocol Type: SYSTEM : All Common System Messages - Not Game Messages
+08/13/14 09:52:00 [STAT] MessageManager  messagemanager.cpp   0238 [0]    Message Module: SYSTEM : Loaded OK
+08/13/14 09:52:00 [STAT] MessageManager  messagemanager.cpp   0212 [0]    Protocol Type: EXTENDEDBASE : Lower level messages for passing DML and RAW string
+08/13/14 09:52:00 [STAT] MessageManager  messagemanager.cpp   0238 [0]    Message Module: EXTENDEDBASE : Loaded OK
+08/13/14 09:52:00 [STAT] MessageManager  messagemanager.cpp   0212 [0]    Protocol Type: LOGIN : Login Server Messages
+08/13/14 09:52:00 [STAT] MessageManager  messagemanager.cpp   0238 [0]    Message Module: LOGIN : Loaded OK
+08/13/14 09:52:00 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0508 [0] State: ST_Ready
+08/13/14 09:52:00 [STAT] CURRENT_STATE   PatchInterface.cpp   1051 [0] CPatchInterface::OnPCStateChange() m_currentState='Unauthen', a_newState=1.
+08/13/14 09:52:00 [STAT] PATCH_CLIENT    PatchInterface.cpp   0386 [0] URL Message: ?message=New,18,AcctStatus,NEW,IdType,I,Id,0,MAC,02E6500C25F4,OST,OSX,Inst,2014-08-13,DiskSpace,93972,PT,2048,PA,1256,VT,2047,VA,2047,CPUFMS,6-69-1,KBDown,0,SecDown,0,PatchClientID,{503CC6FA-A7DC-4044-948B-AF947F612344},CurrentState,Unauthen,FileProgress,0,TotalProgress,0
+08/13/14 09:52:00 [STAT] PATCH_CLIENT    PatchInterface.cpp   0562 [0] Visiting URL: https://www.pirate101.com/P101PatchClient/New?message=New,18,AcctStatus,NEW,IdType,I,Id,0,MAC,02E6500C25F4,OST,OSX,Inst,2014-08-13,DiskSpace,93972,PT,2048,PA,1256,VT,2047,VA,2047,CPUFMS,6-69-1,KBDown,0,SecDown,0,PatchClientID,{503CC6FA-A7DC-4044-948B-AF947F612344},CurrentState,Unauthen,FileProgress,0,TotalProgress,0
+08/13/14 09:52:00 [STAT] PATCH_CLIENT    PatchInterface.cpp   0566 [0] CPatchInterface::InitDialog() GotoPage(https://www.pirate101.com/P101PatchClient/New?message=New,18,AcctStatus,NEW,IdType,I,Id,0,MAC,02E6500C25F4,OST,OSX,Inst,2014-08-13,DiskSpace,93972,PT,2048,PA,1256,VT,2047,VA,2047,CPUFMS,6-69-1,KBDown,0,SecDown,0,PatchClientID,{503CC6FA-A7DC-4044-948B-AF947F612344},CurrentState,Unauthen,FileProgress,0,TotalProgress,0)
+08/13/14 09:52:00 [STAT] PATCH_CLIENT    PatchInterface.cpp   0729 [0] GotoPage - https://www.pirate101.com/P101PatchClient/New?message=New,18,AcctStatus,NEW,IdType,I,Id,0,MAC,02E6500C25F4,OST,OSX,Inst,2014-08-13,DiskSpace,93972,PT,2048,PA,1256,VT,2047,VA,2047,CPUFMS,6-69-1,KBDown,0,SecDown,0,PatchClientID,{503CC6FA-A7DC-4044-948B-AF947F612344},CurrentState,Unauthen,FileProgress,0,TotalProgress,0
+08/13/14 09:52:00 [STAT] PATCH_CLIENT    PatchInterface.cpp   0255 [0] CPatchClientUIDlg::GotoPage() Navigate(https://www.pirate101.com/P101PatchClient/New?message=New,18,AcctStatus,NEW,IdType,I,Id,0,MAC,02E6500C25F4,OST,OSX,Inst,2014-08-13,DiskSpace,93972,PT,2048,PA,1256,VT,2047,VA,2047,CPUFMS,6-69-1,KBDown,0,SecDown,0,PatchClientID,{503CC6FA-A7DC-4044-948B-AF947F612344},CurrentState,Unauthen,FileProgress,0,TotalProgress,0)
+08/13/14 09:52:02 [STAT] PATCH_CLIENT    PatchInterface.cpp   0255 [0] Web page https://www.pirate101.com/P101PatchClient/New?message=New,18,AcctStatus,NEW,IdType,I,Id,0,MAC,02E6500C25F4,OST,OSX,Inst,2014-08-13,DiskSpace,93972,PT,2048,PA,1256,VT,2047,VA,2047,CPUFMS,6-69-1,KBDown,0,SecDown,0,PatchClientID,%7B503CC6FA-A7DC-4044-948B-AF947F612344%7D,CurrentState,Unauthen,FileProgress,0,TotalProgress,0 document has completed loading
+08/13/14 09:52:13 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0314 [0] PatchClient::Start
+08/13/14 09:52:13 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0527 [0] Event: ET_Start
+08/13/14 09:52:13 [STAT] CORE_PATCH_CLNT PatchClientLogin.cpp 0225 [0] Connecting to Login Server
+08/13/14 09:52:13 [STAT] PLAT_NET        ClientSession.cpp    0247 [0] Server address (login.us.pirate101.com) resolved to (206.25.254.70) .
+08/13/14 09:52:13 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0508 [0] State: ST_VerifyingUser
+08/13/14 09:52:13 [STAT] CURRENT_STATE   PatchInterface.cpp   1051 [0] CPatchInterface::OnPCStateChange() m_currentState='Unauthen', a_newState=2.
+08/13/14 09:52:13 [STAT] CORE_PATCH_CLNT PatchClientLogin.cpp 0502 [0] Connected to Login Server (Phase 1)
+08/13/14 09:52:13 [STAT] CORE_PATCH_CLNT PatchClientLogin.cpp 0337 [0] Connected to Login Server (Phase 2)
+08/13/14 09:52:13 [DBGM] PLAT_NET        PatchClientLogin.cpp 0358 [0]    SID:        2683
+08/13/14 09:52:13 [DBGM] PLAT_NET        PatchClientLogin.cpp 0359 [0]    TimeSecs:   1407937933
+08/13/14 09:52:13 [DBGM] PLAT_NET        PatchClientLogin.cpp 0360 [0]    TimeMillis: 962
+08/13/14 09:52:13 [DBGM] PLAT_NET        PatchClientLogin.cpp 0361 [0]    ClientKey:  mwbQHQ/9MpVIHhoPjjINFdc0kU68io5yiJOErr5GC63cnvXIvhbKh2fV7Sm6fmA4DiCqs5f3MLEa9Px2cTQlSQ==
+08/13/14 09:52:14 [DBGM] CORE_PATCH_CLNT PatchClientLogin.cpp 0667 [0] MSG_USER_AUTHEN_RSP: Success. Paying=0
+08/13/14 09:52:14 [STAT] CORE_PATCH_CLNT PatchClientLogin.cpp 0256 [0] Disconnecting from Login Server
+08/13/14 09:52:14 [STAT] CORE_PATCH_CLNT PatchClientLogin.cpp 0482 [0] Disconnected from Login Server
+08/13/14 09:52:14 [STAT] CORE_PATCH_CLNT PatchClientLogin.cpp 0282 [0] Post Login stopped
+08/13/14 09:52:14 [STAT] CORE_PATCH_CLNT PatchClient.cpp      1176 [0] User login successful
+08/13/14 09:52:14 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0527 [0] Event: ET_UserVerified
+08/13/14 09:52:14 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0753 [0] Lead copy the patch client files.
+08/13/14 09:52:14 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0508 [0] State: ST_LeadCopying
+08/13/14 09:52:14 [STAT] CURRENT_STATE   PatchInterface.cpp   1051 [0] CPatchInterface::OnPCStateChange() m_currentState='Authen', a_newState=3.
+08/13/14 09:52:14 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Backing up files...', m_fileProgress=50.
+08/13/14 09:52:14 [STAT] PATCH_CLIENT    PatchInterface.cpp   0386 [0] URL Message: ?message=patching,18,AcctStatus,NEW,IdType,N,Id,jesse2956,MAC,02E6500C25F4,OST,OSX,Inst,2014-08-13,DiskSpace,93898,PT,2048,PA,1251,VT,2047,VA,2047,CPUFMS,6-69-1,KBDown,0,SecDown,0,PatchClientID,{503CC6FA-A7DC-4044-948B-AF947F612344},CurrentState,File/Backing up files...,FileProgress,50,TotalProgress,0
+08/13/14 09:52:14 [STAT] PATCH_CLIENT    PatchInterface.cpp   1017 [0] CPatchInterface::OnReportPatchingStateToUI() GotoPage(https://www.pirate101.com/P101PatchClient/New/patching?message=patching,18,AcctStatus,NEW,IdType,N,Id,jesse2956,MAC,02E6500C25F4,OST,OSX,Inst,2014-08-13,DiskSpace,93898,PT,2048,PA,1251,VT,2047,VA,2047,CPUFMS,6-69-1,KBDown,0,SecDown,0,PatchClientID,{503CC6FA-A7DC-4044-948B-AF947F612344},CurrentState,File/Backing up files...,FileProgress,50,TotalProgress,0)
+08/13/14 09:52:14 [STAT] PATCH_CLIENT    PatchInterface.cpp   0729 [0] GotoPage - https://www.pirate101.com/autologin/P101PatchClient/New/patching?message=patching,18,AcctStatus,NEW,IdType,N,Id,jesse2956,MAC,02E6500C25F4,OST,OSX,Inst,2014-08-13,DiskSpace,93898,PT,2048,PA,1251,VT,2047,VA,2047,CPUFMS,6-69-1,KBDown,0,SecDown,0,PatchClientID,{503CC6FA-A7DC-4044-948B-AF947F612344},CurrentState,File/Backing up files...,FileProgress,50,TotalProgress,0&jsessionid=fUtMy4oCPsPtud3YGM6SJw%3D%3D%7CGl0OUDMM3bIZ8fdh%2BMcUpAlyyKElvmH2Kn5Z3YWpoFD8X1tMiV9t6rGOUn9lWGpHiQ5lTlMDhoDI2U60seIlJg%3D%3D
+08/13/14 09:52:14 [STAT] PATCH_CLIENT    PatchInterface.cpp   0255 [0] CPatchClientUIDlg::GotoPage() Navigate(https://www.pirate101.com/autologin/P101PatchClient/New/patching?message=patching,18,AcctStatus,NEW,IdType,N,Id,jesse2956,MAC,02E6500C25F4,OST,OSX,Inst,2014-08-13,DiskSpace,93898,PT,2048,PA,1251,VT,2047,VA,2047,CPUFMS,6-69-1,KBDown,0,SecDown,0,PatchClientID,{503CC6FA-A7DC-4044-948B-AF947F612344},CurrentState,File/Backing up files...,FileProgress,50,TotalProgress,0&jsessionid=fUtMy4oCPsPtud3YGM6SJw%3D%3D%7CGl0OUDMM3bIZ8fdh%2BMcUpAlyyKElvmH2Kn5Z3YWpoFD8X1tMiV9t6rGOUn9lWGpHiQ5lTlMDhoDI2U60seIlJg%3D%3D)
+08/13/14 09:52:14 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0995 [0] Duplicating files from C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankA/ to C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankB/
+08/13/14 09:52:14 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0995 [0] Duplicating files from C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankA/English/ to C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankB/English/
+08/13/14 09:52:14 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0995 [0] Duplicating files from C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankA/web/ to C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankB/web/
+08/13/14 09:52:14 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0995 [0] Duplicating files from C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankA/web/English/ to C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankB/web/English/
+08/13/14 09:52:14 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0995 [0] Duplicating files from C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankA/web/English/images/ to C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankB/web/English/images/
+08/13/14 09:52:14 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0995 [0] Duplicating files from C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankA/web/images/ to C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankB/web/images/
+08/13/14 09:52:14 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0527 [0] Event: ET_LeadCopied
+08/13/14 09:52:14 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0814 [0] Lead patch the patch client.
+08/13/14 09:52:14 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0508 [0] State: ST_LeadPatching
+08/13/14 09:52:14 [STAT] CURRENT_STATE   PatchInterface.cpp   1051 [0] CPatchInterface::OnPCStateChange() m_currentState='Authen', a_newState=4.
+08/13/14 09:52:14 [STAT] MessageManager  messagemanager.cpp   0212 [0]    Protocol Type: SYSTEM : All Common System Messages - Not Game Messages
+08/13/14 09:52:14 [STAT] MessageManager  messagemanager.cpp   0218 [0]    Message Service Type Already Loaded: #1
+08/13/14 09:52:14 [STAT] MessageManager  messagemanager.cpp   0212 [0]    Protocol Type: EXTENDEDBASE : Lower level messages for passing DML and RAW string
+08/13/14 09:52:14 [STAT] MessageManager  messagemanager.cpp   0218 [0]    Message Service Type Already Loaded: #2
+08/13/14 09:52:14 [STAT] MessageManager  messagemanager.cpp   0212 [0]    Protocol Type: PATCH : Patch Server Messages
+08/13/14 09:52:14 [STAT] MessageManager  messagemanager.cpp   0238 [0]    Message Module: PATCH : Loaded OK
+08/13/14 09:52:14 [STAT] CORE_PATCH_SYS  Patcher.cpp          1806 [0] Connecting to Patch Server
+08/13/14 09:52:14 [STAT] PLAT_NET        ClientSession.cpp    0247 [0] Server address (patch.us.pirate101.com) resolved to (206.25.254.70) .
+08/13/14 09:52:14 [STAT] CORE_PATCH_SYS  Patcher.cpp          0748 [0] Connected to Patch Server
+08/13/14 09:52:14 [STAT] CORE_PATCH_SYS  Patcher.cpp          1611 [0] Send MSG_LATEST_FILE_LIST_V2
+08/13/14 09:52:14 [STAT] CORE_PATCH_SYS  Patcher.cpp          0964 [0] Received MSG_LATEST_FILE_LIST_V2
+08/13/14 09:52:14 [STAT] CORE_PATCH_SYS  Patcher.cpp          0993 [0] UrlPrefix=http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild
+08/13/14 09:52:14 [STAT] CORE_PATCH_SYS  Patcher.cpp          0994 [0] UrlSuffix=?v=CAE75B50
+08/13/14 09:52:14 [STAT] CORE_PATCH_SYS  Patcher.cpp          1001 [0] Ver=1, Size=292830, CRC=CAE75B50, FileUrl=http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/Windows/LatestFileList.bin?v=CAE75B50
+08/13/14 09:52:14 [STAT] CORE_PATCH_SYS  Patcher.cpp          1572 [0] ProcessTransition: ACT_DisconnectPatchServer
+08/13/14 09:52:14 [STAT] CORE_PATCH_SYS  Patcher.cpp          0673 [0] Patch Server connection closed
+08/13/14 09:52:14 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/Windows/LatestFileList.bin?v=CAE75B50).
+08/13/14 09:52:15 [STAT] CORE_PATCH_SYS  Patcher.cpp          1469 [0] Latest file list downloaded
+08/13/14 09:52:15 [WARN] CORE_PATCH_SYS  Patcher.cpp          2588 [0] Unable to load CRC Cache file 'C:\Program Files\KingsIsle Entertainment\Pirate101\PatchInfo//CRC_PatchClient.dat'. Error: 2.
+08/13/14 09:52:15 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/BaseMessages.xml', m_fileProgress=0.
+08/13/14 09:52:15 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/English/Configurator.lang', m_fileProgress=0.
+08/13/14 09:52:15 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/English/PirateLauncher.lang', m_fileProgress=0.
+08/13/14 09:52:15 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/ExtendedBaseMessages.xml', m_fileProgress=0.
+08/13/14 09:52:15 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/LoginMessages.xml', m_fileProgress=0.
+08/13/14 09:52:15 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/PatchMessages.xml', m_fileProgress=0.
+08/13/14 09:52:15 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/web/English/default.html', m_fileProgress=0.
+08/13/14 09:52:15 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/web/English/error.html', m_fileProgress=0.
+08/13/14 09:52:15 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/web/English/firewall.html', m_fileProgress=0.
+08/13/14 09:52:15 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/web/English/firewallVista.html', m_fileProgress=0.
+08/13/14 09:52:15 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/web/English/images/contentpattern.jpg', m_fileProgress=0.
+08/13/14 09:52:15 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/web/English/images/pig.gif', m_fileProgress=0.
+08/13/14 09:52:15 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Configurator.exe', m_fileProgress=0.
+08/13/14 09:52:15 [STAT] CORE_HTTP_FILE  KIHttpFileSession.cpp 1118 [0] DownloadEngine::OpenUrl (http://versionec.us.pirate101.com/PiratePatcher/V_r538045.Pirate_1_058/LatestBuild/Windows/PatchClient/PatchConfig.xml?v=CAE75B50).
+08/13/14 09:52:15 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/PatchConfig.xml', m_fileProgress=0.
+08/13/14 09:52:15 [STAT] PATCH_CLIENT    PatchInterface.cpp   0255 [0] Web page https://www.pirate101.com/P101PatchClient/New/patching?message=patching,18,AcctStatus,NEW,IdType,N,Id,jesse2956,MAC,02E6500C25F4,OST,OSX,Inst,2014-08-13,DiskSpace,93898,PT,2048,PA,1251,VT,2047,VA,2047,CPUFMS,6-69-1,KBDown,0,SecDown,0,PatchClientID,%7B503CC6FA-A7DC-4044-948B-AF947F612344%7D,CurrentState,File/Backing%20up%20files...,FileProgress,50,TotalProgress,0 document has completed loading
+08/13/14 09:52:15 [STAT] PATCH_CLIENT    PatchInterface.cpp   0255 [0] CPatchClientUIDlg::OnDocumentComplete() Refreshing, mismatch https://www.pirate101.com/P101PatchClient/New/patching != https://www.pirate101.com/autologin/P101PatchClient/New/patching
+08/13/14 09:52:15 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/PatchConfig.xml', m_fileProgress=100.
+08/13/14 09:52:15 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/Pirate.skf', m_fileProgress=0.
+08/13/14 09:52:15 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/PirateLauncher.exe', m_fileProgress=0.
+08/13/14 09:52:15 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/PirateLauncherUI.dll', m_fileProgress=0.
+08/13/14 09:52:15 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/SkinCrafterDll.dll', m_fileProgress=0.
+08/13/14 09:52:15 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/unicows.dll', m_fileProgress=0.
+08/13/14 09:52:15 [STAT] CURRENT_STATE   PatchInterface.cpp   0935 [0] CPatchInterface::OnReportFileProgressToUI() m_currentState='File/zlib1.dll', m_fileProgress=0.
+08/13/14 09:52:15 [STAT] CORE_PATCH_CLNT PatchClient.cpp      1317 [0] Lead patched successful
+08/13/14 09:52:15 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0527 [0] Event: ET_LeadChanged
+08/13/14 09:52:15 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0508 [0] State: ST_Completed
+08/13/14 09:52:15 [STAT] CURRENT_STATE   PatchInterface.cpp   1051 [0] CPatchInterface::OnPCStateChange() m_currentState='Authen', a_newState=6.
+08/13/14 09:52:15 [STAT] CORE_PATCH_CLNT PatchClient.cpp      1660 [0] Launching patch client.
+08/13/14 09:52:15 [STAT] CURRENT_STATE   PatchInterface.cpp   0944 [0] CPatchInterface::OnReportTotalProgressToUI() m_totalProgress=100.
+08/13/14 09:52:15 [STAT] CORE_PATCH_CLNT PatchClient.cpp      1692 [0] C:\Program Files\KingsIsle Entertainment\Pirate101\PatchClient/BankB/PirateLauncher.exe -r -u:4295070541392 -p:*** -n:jesse2956
+08/13/14 16:30:16 [STAT] PATCH_CLIENT    PatchInterface.cpp   0386 [0] URL Message: ?message=UserClosed,18,AcctStatus,NEW,IdType,N,Id,jesse2956,MAC,02E6500C25F4,OST,OSX,Inst,2014-08-13,DiskSpace,89422,PT,2048,PA,1198,VT,2047,VA,2047,CPUFMS,6-69-1,KBDown,1,SecDown,1,PatchClientID,{503CC6FA-A7DC-4044-948B-AF947F612344},CurrentState,Authen,FileProgress,0,TotalProgress,100
+08/13/14 16:30:16 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0362 [0] State: ST_UserStopping
+08/13/14 16:30:16 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0527 [0] Event: ET_UserStopped
+08/13/14 16:30:16 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0527 [0] Event: ET_UserStopped
+08/13/14 16:30:16 [STAT] CORE_PATCH_CLNT PatchClient.cpp      0660 [0] State: ST_Ready
